@@ -1,4 +1,5 @@
 MyFirstRepo
 ===========
 
-First GIT Repository, I learn, embrace GIT and mentors other with this repo
+First GIT Repository, I learn, embrace and mentors other with this repo
+changes made by user1
